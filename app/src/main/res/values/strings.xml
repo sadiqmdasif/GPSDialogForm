@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GPSDialogForm</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="spinnerItemsLandmark">
+        <item>Medical college hospital</item>
+        <item>UH&amp;FPC</item>
+        <item>Union Sub-center</item>
+        <item>FWC</item>
+        <item>CC</item>
+        <item>Private clinic/Hospital</item>
+        <item>NGO Clinic</item>
+        <item>Charitable / Trust Run Hospital</item>
+        <item>School</item>
+        <item>College</item>
+        <item>Madrasa</item>
+        <item>Mosque</item>
+        <item>Grave yard</item>
+        <item>Temple</item>
+        <item>Bridge/culvert</item>
+        <item>Bazar</item>
+        <item>Pharmacy</item>
+        <item>Shop</item>
+        <item>Filling station</item>
+        <item>Bus stand</item>
+        <item>Tempo stand</item>
+        <item>Rail station</item>
+        <item>Other</item>
+    </string-array>
+</resources>
